@@ -1,9 +1,0 @@
-
-public class projectOne {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
-}
